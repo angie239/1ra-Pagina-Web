@@ -1,2 +1,2 @@
 # 1ra-Pagina-Web
-Página web realizada con HTML y CSS
+Actualización de la página web realizada con HTML y CSS
